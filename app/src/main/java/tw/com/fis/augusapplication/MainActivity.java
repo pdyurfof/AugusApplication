@@ -23,6 +23,9 @@ public class MainActivity extends ActionBarActivity //extends繼承 某個class 
         // Inflate the menu; this adds items to the action bar if it is present.
         //R表示res目錄的縮寫
         getMenuInflater().inflate(R.menu.menu_main, menu);
+
+
+        
         return true;
     }
 
